@@ -1,5 +1,5 @@
 # Synthetic Data Exploration: 
-## ADicom
+## Dicom
 
 **Keywords:** Synthetic, Imaging, Graph
 
